@@ -1,0 +1,24 @@
+p {
+    border:0px;
+    border-left:  6px;
+    border-color: #82ceee;
+    border-style:solid;
+    padding: 4px;
+    background-color: #b9e6f9;
+    color: black;
+}
+
+.demo {
+    border-style: dashed;
+    border-color: blue;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.formfield{
+    width: 50%;
+    border-color: white;
+    padding: 4px;
+    border-radius: 40px;
+}
